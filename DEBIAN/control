@@ -1,0 +1,7 @@
+Package: daghello
+Maintainer: Dagmawi Biru <dbiru.private@gmail.com>
+Priority: optional
+Section: devel
+Version: 0.2
+Architecture: amd64
+Description: Just a simple hello world
